@@ -3,7 +3,7 @@
 ##### Human-Computer interaction(HCI)
 is a feild of study that focues on the design and use of computer technology,particularly the interaction between human(users) and computers.HCI combines elements of **computer science,cognitive psychology,** and **design** to create interfaces that are intuitive and user-freindly.
 
-<span style="color: red;">This text is red.</span>
+`<span style="color: red;">This text is red.</span>`
 
 ## KEY Areas in HCI
 * [x] User Interface(UI) design
