@@ -26,7 +26,7 @@ A/B Testing |Compare two versions of a design to see which performs better | Tes
 ## Key Resources links
 for more information on HCI visit [interaction Desing foundation](https://www.interaction-design.org/)
 ***
-## Quotes for Thought
+## Quote for Thought
 > “the best interface is no interface”
 > -Golden Krishna
 
